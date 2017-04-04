@@ -1,7 +1,7 @@
-title: Mysite
-description: 
+title: 邹伟的成长笔记
+description: 做一个终生成长者
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-time-machine
 
 gems:
