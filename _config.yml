@@ -2,7 +2,7 @@ title: 邹伟的成长笔记
 description: 做一个终生成长者
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-modernist
 
 gems:
   - jekyll-mentions
