@@ -7,3 +7,5 @@
 http://beiyuu.com/github-pages
 
 http://jekyllrb.com/docs/configuration/
+
+http://tiankonguse.com/i/index-box.php
